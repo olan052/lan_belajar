@@ -1,2 +1,7 @@
 Pengen Belajar Web Dev sehinggan menjadi bisa
--tahun depan sudah mulai bisa
+- tahun depan sudah mulai bisa
+- HTML & CSS Sudah Lumayan
+- Belajar javascript
+- Belajar Vue JS
+- Belajar PHP
+- Belajar Laravel
