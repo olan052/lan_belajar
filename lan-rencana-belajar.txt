@@ -3,4 +3,5 @@
   *Javascript Dasar
   *OOP
 - Framework Javascript
+  *Vue JS
 - Php Framework
