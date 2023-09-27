@@ -1,3 +1,4 @@
  Rencana Belajara Lan
 - Belajar Javascript
+  *Javascript Dasar
 - Php Framework
