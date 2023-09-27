@@ -1,5 +1,7 @@
  Rencana Belajara Lan
 - Belajar Javascript
   *Javascript Dasar
-  *OOP
+- Framework Javascript
+  *React
 - Php Framework
+  *Laravel
