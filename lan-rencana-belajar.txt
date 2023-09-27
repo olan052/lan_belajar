@@ -2,6 +2,8 @@
 - Belajar Javascript
   *Javascript Dasar
 - Framework Javascript
-  *React
+  *OOP
+- Framework Javascript
+  *Vue JS
 - Php Framework
   *Laravel
